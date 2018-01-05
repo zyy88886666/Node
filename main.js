@@ -8,3 +8,8 @@ fs.readFile("input.txt",function(err,data){
 })
 
 console.log("程序执行完毕！");
+
+
+
+//程序执行结束!
+//hello world!zyy
